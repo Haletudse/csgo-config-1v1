@@ -50,3 +50,13 @@ pausematch
 unpausegame
 unpausematch
 ```
+
+### Weapon commands
+```
+"clear"   - Knife only
+"default" - M4 & Ak-47
+"taser"   - Rechargeable tasers	
+"deagle"  - Deagle only
+"awp"     - Awp & Deagle
+scout
+```
