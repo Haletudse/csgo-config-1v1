@@ -18,17 +18,20 @@ restartgame
 restartmatch
 ```
 Overtime
+
 Command toggles on & off
 ```
 overtime
 ```
 Allow Weapons placed in the map
+
 Command toggles on & off
 ```
 roundweapons
 ```
 
 Headshot only
+
 Command toggles on & off
 ```
 headshot
