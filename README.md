@@ -1,3 +1,9 @@
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
 # 1v1 CS:GO Config
 My 1on1 config for Counter-Strike: Global Offensive.
 ┌───────────────────────────────────────────────────┐
