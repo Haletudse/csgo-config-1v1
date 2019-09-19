@@ -15,12 +15,16 @@ My 1on1 config for Counter-Strike: Global Offensive.
 | L |                                           | G |
 └───────────────────────────────────────────────────┘
 ###### Execute
-> exec 1v1
+```
+exec 1v1
+```
 
 ###### Commands
 Starting a default 1v1 match.
-> startgame
+```
+startgame
 startmatch
+```
 
 Restart the 1v1 match.
 > restartgame
