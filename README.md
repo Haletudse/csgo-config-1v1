@@ -6,29 +6,38 @@ My 1on1 config for Counter-Strike: Global Offensive.
 ```
 exec 1v1
 ```
-
 ### Commands
 Starting a default 1v1 match.
 ```
 startgame
 startmatch
 ```
-
 Restart the 1v1 match.
-> restartgame
-> restartmatch
+```
+restartgame
+restartmatch
+```
+Overtime
+Command toggles on & off
+```
+overtime
+```
+Allow Weapons placed in the map
+Command toggles on & off
+```
+roundweapons
+```
 
-Overtime on/off
-> overtime
-
-Allow map placed weapons on/off
-> groundweapons
-
-Headshot only on/off
-> headshot
+Headshot only
+Command toggles on & off
+```
+headshot
+```
 
 Pause & Unpause match on round start/end.
-> pausegame
-> pausematch
-> unpausegame
-> unpausematch
+```
+pausegame
+pausematch
+unpausegame
+unpausematch
+```
