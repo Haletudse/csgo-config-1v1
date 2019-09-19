@@ -58,5 +58,6 @@ unpausematch
 "taser"   - Rechargeable tasers	
 "deagle"  - Deagle only
 "awp"     - Awp & Deagle
-scout
+"scout"   - Scout & Deagle
+"nades"   - 1x Smoke 2xFlashbang
 ```
