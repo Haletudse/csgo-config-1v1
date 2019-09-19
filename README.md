@@ -1,25 +1,13 @@
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
 
 # 1v1 CS:GO Config
 My 1on1 config for Counter-Strike: Global Offensive.
-┌───────────────────────────────────────────────────┐
-| D |                                           | C |
-| E |     Denial 1v1 Configuration (C) 2019     | O |
-| N |     Version 1.0                           | N |
-| I |                                           | F |
-| A |     Last updated 13/09/2019               | I |
-| L |                                           | G |
-└───────────────────────────────────────────────────┘
-###### Execute
+
+### Execute
 ```
 exec 1v1
 ```
 
-###### Commands
+### Commands
 Starting a default 1v1 match.
 ```
 startgame
