@@ -28,23 +28,17 @@ Restart the 1v1 match.
 restartgame
 restartmatch
 ```
-Overtime
-
-Command toggles on & off
+Overtime *Command toggles on & off*
 ```
 overtime
 ```
-Allow Weapons placed in the map
-
-Command toggles on & off
+Allow Weapons placed in the map *Command toggles on & off*
 ```
 groundweapons
 mapweapons
 ```
 
-Headshot only
-
-Command toggles on & off
+Headshot only *Command toggles on & off*
 ```
 headshot
 ```
