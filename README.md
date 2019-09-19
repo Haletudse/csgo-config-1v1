@@ -1,3 +1,14 @@
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+
+
+
 
 # 1v1 CS:GO Config
 My 1on1 config for Counter-Strike: Global Offensive.
@@ -27,7 +38,8 @@ Allow Weapons placed in the map
 
 Command toggles on & off
 ```
-roundweapons
+groundweapons
+mapweapons
 ```
 
 Headshot only
