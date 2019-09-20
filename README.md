@@ -9,6 +9,10 @@ I initially wanted a configuration that allows me to change commands from in-gam
 
 
 ## How to use
+When you've downloaded the config file, you want to move it to your game directory.
+>C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+
+
 
 ## General information
 
