@@ -1,12 +1,14 @@
 # 1v1 CS:GO Config
-My 1on1 config for Counter-Strike: Global Offensive.
+This is my 1v1 configuration file.  
+I initially wanted a configuration that allows me to change commands from in-game.
 
-## Table of content
-* What you do with a cfg file
-* Executing the cfg
+## Table of contents
+* How to use
 * General information
 * Console Commands
 
+
+## How to use
 
 ## General information
 
