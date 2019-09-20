@@ -22,19 +22,19 @@ It is possible to tie the game if both teams reach 8 wins.
 
 
 ## Console Commands
-To begin the 1v1 match.
+To begin the 1v1 match.  
 > startgame  
 > startmatch  
 
 
-Restart the 1v1 match.
+Restart the 1v1 match.  
 > restartgame  
 > restartmatch  
 
 Overtime  
-*(Command toggles on & off)*
+This command will extend the game if both teams reach 8 wins.  
+*(Command toggles on & off)*  
 > overtime  
-This command will extend the game if both teams reach 8 wins.
 
 Allow Weapons placed in the map  
 *(Command toggles on & off)*
