@@ -22,38 +22,35 @@ It is possible to tie the game if both teams reach 8 wins.
 
 
 ## Console Commands
-
+To begin the 1v1 match.
 > startgame  
-> startmatch
+> startmatch  
 
 
 Restart the 1v1 match.
-```
-restartgame
-restartmatch
-```
-Overtime *(Command toggles on & off)*
-```
-overtime
-```
-Allow Weapons placed in the map *(Command toggles on & off)*
-```
-groundweapons
-mapweapons
-```
+> restartgame  
+> restartmatch  
 
-Headshot only *(Command toggles on & off)*
-```
-headshot
-```
+Overtime  
+*(Command toggles on & off)*
+> overtime
+This command will extend the game if both teams reach 8 wins.
+
+Allow Weapons placed in the map  
+*(Command toggles on & off)*
+> groundweapons  
+> mapweapons  
+
+Headshot only  
+*(Command toggles on & off)*
+> headshot  
 
 Pause & Unpause match on round start/end.
-```
-pausegame
-pausematch
-unpausegame
-unpausematch
-```
+> pausegame  
+> pausematch  
+> unpausegame  
+> unpausematch  
+
 
 ## Weapon commands
 ```
