@@ -1,17 +1,17 @@
 # 1v1 CS:GO Config
 My 1on1 config for Counter-Strike: Global Offensive.
 
-Table of content
+## Table of content
 * What you do with a cfg file
 * Executing the cfg
 * General information
 * Console Commands
 
 
-###General information
+## General information
 
 
-### Console Commands
+## Console Commands
 Starting a default 1v1 match.
 ```
 startgame
@@ -45,7 +45,7 @@ unpausegame
 unpausematch
 ```
 
-### Weapon commands
+## Weapon commands
 ```
 "clear"   - Knife only
 "default" - M4 & Ak-47
