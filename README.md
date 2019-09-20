@@ -16,14 +16,17 @@ Example, may be different depending on where you have the game installed.
 
 
 ## General information
+With this configuration, you can from in-game enter commands to change the game.
+By default you play best of 16 which means that the team first to 9 wins.
+It is possible to tie the game if both teams reach 8 wins.
 
 
 ## Console Commands
-Starting a default 1v1 match.
-```
-startgame
-startmatch
-```
+
+> startgame  
+> startmatch
+
+
 Restart the 1v1 match.
 ```
 restartgame
