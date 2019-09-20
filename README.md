@@ -33,7 +33,7 @@ Restart the 1v1 match.
 
 Overtime  
 *(Command toggles on & off)*
-> overtime
+> overtime  
 This command will extend the game if both teams reach 8 wins.
 
 Allow Weapons placed in the map  
