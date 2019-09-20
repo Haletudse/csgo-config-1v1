@@ -1,4 +1,4 @@
-# 1v1 CS:GO Config
+# 1v1 Counter-Strike:Global Offensice Configuration
 This is my 1v1 configuration file.  
 I initially wanted a configuration that allows me to change commands from in-game.
 
@@ -11,7 +11,7 @@ I initially wanted a configuration that allows me to change commands from in-gam
 ## How to use
 When you've downloaded the config file, you want to move it to your game directory.  
 Example, may be different depending on where you have the game installed.
->C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+>C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\
 
 
 
