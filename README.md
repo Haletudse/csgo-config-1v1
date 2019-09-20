@@ -1,4 +1,4 @@
-# 1v1 Counter-Strike:Global Offensice Configuration
+## 1v1 Counter-Strike:Global Offensive Configuration
 This is my 1v1 configuration file.  
 I initially wanted a configuration that allows me to change commands from in-game.
 
