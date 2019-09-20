@@ -3,6 +3,7 @@ My 1on1 config for Counter-Strike: Global Offensive.
 
 ### Execute
 ```
+**Execute**
 exec 1v1
 ```
 ### Commands
