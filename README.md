@@ -1,5 +1,6 @@
-## Counter-Strike:Global Offensive  1v1 Configuration
-
+## Counter-Strike:Global Offensive
+## 1v1 Configuration
+:EMOJICODE:
 ## 1v1 Counter-Strike:Global Offensive Configuration
 This is my 1v1 configuration file.  
 I initially wanted a configuration that allows me to change commands from in-game.
