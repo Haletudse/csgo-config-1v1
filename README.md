@@ -3,7 +3,7 @@
 
 
 ### Commands
-
+Manually end warmup - endwarmup
 
 
 
