@@ -1,4 +1,4 @@
-## Counter-Strike:Global Offensive
+# Counter-Strike:Global Offensive
 ## 1v1 Configuration
 :EMOJICODE:
 ## 1v1 Counter-Strike:Global Offensive Configuration
