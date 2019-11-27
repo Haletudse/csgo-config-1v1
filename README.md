@@ -3,6 +3,11 @@
 
 
 ### Launch Commands
+End warmup manually.
+>endwarmup
+
+
+
 endwarmup - Manually end the warmup period.
 startgame - Start the 1v1 match
 startmatch - Start the 1v1 match
