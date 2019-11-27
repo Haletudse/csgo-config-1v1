@@ -5,17 +5,21 @@
 ### Launch Commands
 End warmup manually.
 > endwarmup
+
 Start the 1v1 match.
 > startgame  
 > startmatch  
+
 Restart the 1v1 match.
 > restartgame  
 > restartmatch  
+
 Pause & Unpause match.
 > pausegame  
 > pausematch  
 > unpausegame  
 > unpausematch  
+
 
 ### Gamemode Commands
 Overtime
