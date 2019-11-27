@@ -3,11 +3,11 @@ Commands below should be entered into the console, only after executing the 1v1 
 
 # 1. Choose player weapons
 Select a primary weapon:
-´´´
+```
 ak47
 m4a4
 
-´´´
+```
 
 
 
