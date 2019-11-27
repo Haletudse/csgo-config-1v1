@@ -1,8 +1,18 @@
-# Counter-Strike:Global Offensive
-1v1 Configuration
+# Counter-Strike:Global Offensive 1v1 Configuration
+Commands below should be entered into the console, only after executing the 1v1 config.
+
+# 1. Choose player weapons
+Select a primary weapon:
+´´´
+ak47
+m4a4
+
+´´´
 
 
-### Launch Commands
+
+
+# Launch Commands
 End warmup manually.
 > endwarmup
 
