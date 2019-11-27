@@ -2,24 +2,20 @@
 1v1 Configuration
 
 
-### Commands
-Manually end warmup - endwarmup
+### Launch Commands
+endwarmup - Manually end the warmup period.
+startgame - Start the 1v1 match
+startmatch - Start the 1v1 match
+restartgame - Restart the 1v1 match
+restartmatch - Restart the 1v1 match
+pausegame - Pause
+pausematch - Pause
+unpausegame - Unpause
+unpausematch - Unpause
 
-
-
-
-
-
-
-## Console Commands
-To begin the 1v1 match.  
-> startgame  
-> startmatch  
-
-
-Restart the 1v1 match.  
-> restartgame  
-> restartmatch  
+### Gamemode Commands
+Overtime
+This command will extend the game if both teams reach 8 wins.  
 
 Overtime  
 This command will extend the game if both teams reach 8 wins.  
@@ -35,11 +31,7 @@ Headshot only
 *(Command toggles on & off)*
 > headshot  
 
-Pause & Unpause match on round start/end.
-> pausegame  
-> pausematch  
-> unpausegame  
-> unpausematch  
+
 
 
 ## Weapon commands
