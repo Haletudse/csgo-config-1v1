@@ -2,15 +2,15 @@
 Commands below should be entered into the console, only after executing the 1v1 config.
 
 # 1. Choose player weapons
-Select a primary weapon:
 ```
-ak47
-m4a4
-
+"default" - M4 & Ak-47
+"taser"   - Rechargeable tasers	
+"deagle"  - Deagle only
+"awp"     - Awp & Deagle
+"scout"   - Scout & Deagle
+"nades"   - 1x Smoke 2xFlashbang
 ```
-
-
-
+"clear"   - Knife only
 
 # Launch Commands
 End warmup manually.
@@ -50,15 +50,3 @@ Headshot only
 > headshot  
 
 
-
-
-## Weapon commands
-```
-"clear"   - Knife only
-"default" - M4 & Ak-47
-"taser"   - Rechargeable tasers	
-"deagle"  - Deagle only
-"awp"     - Awp & Deagle
-"scout"   - Scout & Deagle
-"nades"   - 1x Smoke 2xFlashbang
-```
