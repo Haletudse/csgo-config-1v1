@@ -1,6 +1,18 @@
 # Counter-Strike:Global Offensive 1v1 Configuration
 Commands below should be entered into the console, only after executing the 1v1 config.
 
+When you have downloaded the cfg, you need to put it in the csgo cfg folder.
+C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+When you run csgo, open the console and enter "exec 1v1" without quotation.
+
+
+# 1. Choose a gamemode (optional)
+```
+Overtime (Toggle on/off)
+> overtime
+```
+
+
 # 1. Choose player weapons
 ```
 "default" - M4 & Ak-47
