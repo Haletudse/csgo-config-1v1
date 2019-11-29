@@ -5,60 +5,43 @@ When you have downloaded the cfg, you need to put it in the csgo cfg folder.
 C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 When you run csgo, open the console and enter "exec 1v1" without quotation.
 
-
 # 1. Choose a gamemode (optional)
 ```
 Overtime (Toggle on/off)
 > overtime
+
+Headshot only (Toggle on/off)
+> headshot
+
+Map weapons (Toggle on/off)
+> mapweapons
+> groundweapons
 ```
 
-
-# 1. Choose player weapons
+# 2. Choose the spawn weapons.
 ```
-"default" - M4 & Ak-47
-"taser"   - Rechargeable tasers	
-"deagle"  - Deagle only
-"awp"     - Awp & Deagle
-"scout"   - Scout & Deagle
-"nades"   - 1x Smoke 2xFlashbang
+> ak-47
+> m4a4
+> awp
+> scoutknives
+> deagles
+> usp
+> johnwick
 ```
-"clear"   - Knife only
 
-# Launch Commands
-End warmup manually.
-> endwarmup
+# 3. Run the game
+```
+Starting the match
+> startmatch
+> startgame
 
-Start the 1v1 match.
-> startgame  
-> startmatch  
+Restart match
+> restartmatch
+> restartgame
 
-Restart the 1v1 match.
-> restartgame  
-> restartmatch  
-
-Pause & Unpause match.
-> pausegame  
-> pausematch  
-> unpausegame  
-> unpausematch  
-
-
-### Gamemode Commands
-Overtime
-This command will extend the game if both teams reach 8 wins.  
-
-Overtime  
-This command will extend the game if both teams reach 8 wins.  
-*(Command toggles on & off)*  
-> overtime  
-
-Allow Weapons placed in the map  
-*(Command toggles on & off)*
-> groundweapons  
-> mapweapons  
-
-Headshot only  
-*(Command toggles on & off)*
-> headshot  
-
-
+Pause & Unpause
+> pausematch
+> pausegame
+> unpausematch
+> unpausegame
+```
